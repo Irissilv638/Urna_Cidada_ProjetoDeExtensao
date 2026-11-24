@@ -58,3 +58,15 @@ urna_projeto_extensao/
 ├── firebase.json · .firebaserc           # Projeto Firebase (urna-eletronica-2026)
 └── .gitignore
 ```
+
+## Equipe
+
+| Integrante |
+|------------|
+| [Ericsson dos Santos] |
+| [Íris Conceição] |
+| [Matheus Macedo] |
+| [Renato Bloisi] |
+| [Tailane Brito] |
+
+Professor: Nirton Afonso · Disciplina: Programação Orientada a Objeto - Projeto de Extensão · Unijorge · 2026
