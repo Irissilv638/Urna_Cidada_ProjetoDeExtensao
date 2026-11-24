@@ -66,6 +66,7 @@ urna_projeto_extensao/
 | [Ericsson dos Santos] |
 | [Íris Conceição] |
 | [Matheus Macedo] |
+| [Renan Pires] |
 | [Renato Bloisi] |
 | [Tailane Brito] |
 
