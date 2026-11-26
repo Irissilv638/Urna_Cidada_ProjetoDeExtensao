@@ -1,0 +1,37 @@
+# Compilação
+target/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Pacotes
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Arquivos de IDE / da máquina de cada pessoa (cada um gera o seu)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+bin/
+out/
+classes/
+.vscode/
+.DS_Store
+*.ctxt
+.mtj.tmp/
+
+# Testes locais
+**/TesteUrna.java
+
+# SEGREDOS: chave da conta de serviço do Firebase. NUNCA subir para o Git.
+config/
+*serviceAccountKey*.json
+*firebase-adminsdk*.json
